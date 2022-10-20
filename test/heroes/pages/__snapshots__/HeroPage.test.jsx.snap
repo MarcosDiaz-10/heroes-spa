@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas HeroPage debe mostrar el componente por defecto cuando existe el hero 1`] = `
+<div>
+  <div
+    class="row mt-5"
+  >
+    <div
+      class="col-4"
+    >
+      <img
+        alt="Spider Man"
+        class="img-thumbnail animate__animated animate__fadeInLeft"
+        src="/assets/marvel-spider.jpg"
+      />
+    </div>
+    <div
+      class="col-8 animate__animated animate__zoomIn "
+    >
+      <h3>
+        Spider Man
+      </h3>
+      <ul
+        class="list-group list-group=flush"
+      >
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            Alter ego:
+          </b>
+           
+          Peter Parker
+           
+        </li>
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            Publisher:
+          </b>
+           
+          Marvel Comics
+           
+        </li>
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            First appearance:
+          </b>
+           
+          Amazing Fantasy #15
+           
+        </li>
+      </ul>
+      <h5
+        class="mt-3"
+      >
+         Characters
+      </h5>
+      <p>
+        Peter Parker
+      </p>
+      <button
+        class="btn btn-outline-primary"
+      >
+        Regresar
+      </button>
+    </div>
+  </div>
+</div>
+`;
